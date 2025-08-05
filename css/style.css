@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+    color: #B4604D;
+    display: flex;
+    justify-content: space-around;
+}
+.shop{
+    padding-left: 172px;
+    padding-right: 28px;
+    font-size: 18px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.edit{
+    font-size: 18px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.story{
+    font-size: 18px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.rvws{
+    font-size: 18px;
+    padding-left: 32px;
+    padding-right: 141px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.rasm1{
+    width: 120px;
+    height: 56px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.acc{
+    font-size: 14px;
+    padding-left: 402px;
+    padding-right: 19px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.rasm2{
+    width: 20px;
+    height: 21px;
+    padding-left: 43px;
+}
+.card{
+    height: 435px;
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.clss{
+    background-color: #A9AE8D;
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.matn{
+    font-size: 18px;
+    padding-top: 69px;
+    text-align: center;
+    color: white;
+}
+.matn2{
+    font-size: 33px;
+    padding-top: 15px;
+    padding-bottom: 28px;
+    text-align: center;
+    color: white;
+}
+.rasm-4{
+    padding-left: 656px;
+    padding-right: 656px;
+    padding-top: 28px;
+    padding-bottom: 51px;
+}
+.new{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    display: flex;
+}
+.rangi{
+    color: #B45F4D;
+    padding-top: 39px;
+    padding-bottom: 14px;
+    text-align: center;
+    font-size: 23px;
+    display: block;
+}
+.left{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rasm5 {
+    padding-top: 57px;
+    padding-left: 100px;
+    padding-right: 72.77px;
+    padding-bottom: 35px;
+
+}
+.set{
+    padding-top: 35px;
+    padding-bottom: 23px;
+    padding-left: 126px;
+    font-size: 18px;
+}
+.s49{
+    padding-top: 23px;
+    padding-bottom: 30px;
+    padding-left: 126px;
+    font-size: 16px;
+}
+.rasm6{
+    padding-bottom: 39px;
+    padding-left: 129px;
+}
+
+.rasm7{
+    padding-top: 57px;
+    padding-bottom: 35px;
+    padding-left: 30px;
+    padding-right: 94px;
+ 
+}
+.wampoo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 73px;
+    font-size: 15px;
+    color: #B45F4D;
+}
+.s24{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    padding-left: 75px;
+    font-size: 16px;
+    color: #B45F4D;
+}
+.rasm8{
+    padding-top: 57px;
+    padding-right: 128px;
+    padding-bottom: 33px;
+}
+.cndtnr{
+    padding-top: 33px;
+    padding-bottom: 18px;
+    padding-right: 345px;
+    color: #B45F4D;
+}
+.s240{
+    padding-top: 18px;
+    padding-bottom: 31px;
+    color: #B45F4D;
+}
+.rasm9{
+    padding-left: 260px;
+    padding-bottom: 39px;
+}
+.rasm10{
+    padding-top: 34px;
+    padding-bottom: 46px;
+}
+.sctn{
+    width: 1440px;
+    height: 914px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F1D3B9;
+    display: flex;
+}
+.rasm11{
+    width: 500px;
+    height: 750px;
+    padding-top: 97px;
+    padding-bottom: 68px;
+    padding-left: 116px;
+    padding-right: 204px;
+}
+.paragraph {
+    width: 500px;
+    height: 750px;
+    padding-top: 96px;
+    padding-bottom: 68px;
+    padding-left: 204px;
+
+}
+.ol{
+    background-color: white;
+        width: 500px;
+        height: 750px;
+}
+.ass{
+    padding-top: 134px;
+    padding-bottom: 22px;
+    padding-left: 185px;
+    padding-right: 185px;
+    color: #B45F4D;
+}
+.caa{
+    width: 416px;
+    height: 335px;
+    padding-top: 22px;
+    padding-bottom: 41px;
+    padding-left: 42px;
+    padding-right: 42px;
+    color: #B45F4D;
+}
+.acc{
+padding-top: 41px;
+padding-bottom: 134px;
+padding-left: 41px;
+padding-right: 379px;
+color: #B45F4D;
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1440px;
+    height: 50px;
+    background-color: #FFFFFF
+}
+.c2021{
+    text-align: center;
+    color: #B45F4D;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
